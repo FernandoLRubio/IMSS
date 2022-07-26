@@ -1,6 +1,8 @@
 # IMSS
 Interactive Mexican Service Scrappers
 
-## Servicios Scrapeables
-- Tarifas CFE
-- Consulta Multas Vehiculares Jalisco
+*Read this in other languages: [Spanish](README.es.md)*
+
+## Scrappable Service
+- CFE Fares
+- Vehicular Tickets (Jalisco)
